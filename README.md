@@ -1,0 +1,1 @@
+# Elo rating system for climbers and routes
